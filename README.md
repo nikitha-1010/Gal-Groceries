@@ -1,1 +1,1 @@
-# Gal-Groceries
+# Gala-Groceries
